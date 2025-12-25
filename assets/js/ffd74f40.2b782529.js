@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbook=globalThis.webpackChunkbook||[]).push([[2786],{9327(o){o.exports=JSON.parse('{"metadata":{"permalink":"/AI-Driven-Book-Development/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
