@@ -1,0 +1,24 @@
+# Node.js/Docusaurus ignores
+node_modules/
+dist/
+build/
+.cache/
+.docusaurus/
+.env
+.env.*local
+yarn-error.log*
+npm-debug.log*
+my_constitution.txt
+specification.txt
+
+# General ignores
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
+*.log
+
+# Windows specific
+Desktop.ini
