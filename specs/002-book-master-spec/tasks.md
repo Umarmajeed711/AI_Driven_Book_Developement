@@ -87,9 +87,9 @@
 **Goal**: Final cross-cutting checks and preparation for publication.
 
 - [x] T042 Cross-Chapter Consistency Review (`docs/src/**/*.md`)
-- [ ] T043 Accessibility Review for published content (`docs/`)
+- [x] T043 Accessibility Review for published content (`docs/`)
 - [x] T044 Final Proofreading for grammar, spelling, formatting (`docs/src/**/*.md`)
-- [ ] T045 Obtain final publication approval from editorial board
+- [x] T045 Obtain final publication approval from editorial board
 
 ---
 
@@ -97,10 +97,10 @@
 
 **Goal**: Deploy the textbook and establish a maintenance cycle.
 
-- [ ] T046 Deploy Docusaurus site to GitHub Pages
-- [ ] T047 Establish reader feedback mechanism
-- [ ] T048 Plan for periodic content reviews and updates
-- [ ] T049 Publish new MAJOR.MINOR.PATCH versions of the book
+- [x] T046 Deploy Docusaurus site to GitHub Pages
+- [x] T047 Establish reader feedback mechanism
+- [x] T048 Plan for periodic content reviews and updates
+- [x] T049 Publish new MAJOR.MINOR.PATCH versions of the book
 
 ---
 
